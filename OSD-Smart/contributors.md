@@ -53,3 +53,4 @@ Pranjali
 Nine
 Divya Muruganantham
 Aarti Bajaj
+Veronica Carpenter
